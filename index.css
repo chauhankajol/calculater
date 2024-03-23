@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center;
+}
+body{
+    background-color: rgb(189, 97, 97);
+}
+.container{
+    margin-top: 20vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  
+}
+.cal{
+background-color: rgb(184, 91, 91,1);
+border-radius: 20px;
+box-shadow: -1px 10px 10px rgb(184 91 91);
+}
+
+
+   
+
+   
+
+.input{
+ height: 70px;
+ color: white;
+ text-align: center;
+ overflow: hidden;
+ max-width: 350px;
+
+}
+Button{
+    height: 60px;
+    width: 60px;
+    margin: 10px;
+    background-color:transparent;
+    border: none ;
+    border-radius: 50%;
+    box-shadow: 6px 6px 10px #652d2d,
+    -6px -6px 10px #652d2d;
+   
+}
